@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './Hero.css';
-import profile_img from '../../assets/update_img.svg';
+import profile_img from '../../assets/update_img.jpg';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import { Typewriter } from 'react-simple-typewriter';
 
