@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import theme_pattern from "../../assets/theme_pattern.svg";
-import profile_img from "../../assets/about_update_img.svg";
+import profile_img from "../../assets/about_update_img.jpg";
 
 const About = () => {
   return (
