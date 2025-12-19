@@ -112,7 +112,7 @@
 
     /* subtle linear gradient overlay (not background, not border) */
     background: linear-gradient(135deg, rgba(238,9,121,0.25), rgba(142,45,226,0.25));
-    -webkit-mask-image: url('../../assets/about_update_img.svg');
+    -webkit-mask-image: url('../../assets/about.jpg');
     -webkit-mask-repeat: no-repeat;
     -webkit-mask-size: cover;
     -webkit-mask-position: center;
