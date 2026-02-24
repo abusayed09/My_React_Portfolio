@@ -9,6 +9,7 @@ import project4_img from '../../assets/libaration.jpg';
 import project5_img from '../../assets/travel.jpg';
 import project6_img from '../../assets/delivery.jpg';
 
+
 const MyWork = () => {
 
     const mywork_data = [
@@ -31,28 +32,28 @@ const MyWork = () => {
             w_name: "Agriculture Hub",
             w_img: project3_img,
             w_desc: "A complete solution for modern farming info.",
-            w_link: "https://abusayed09.github.io/AgricultureHub-website/"
+            w_link: "https://mdabusayedbinamin.github.io/AgricultureHub-website/"
         },
         {
             w_no: 4,
             w_name: "Liberation War",
             w_img: project4_img,
             w_desc: "Historical archive of Bangladesh's independence.",
-            w_link: "https://abusayed09.github.io/Libaration-WAR-02/"
+            w_link: "https://mdabusayedbinamin.github.io/Libaration-WAR-02/"
         },
         {
             w_no: 5,
             w_name: "Traversal",
             w_img: project5_img,
             w_desc: "Modern travel agency landing page using Bootstrap.",
-            w_link: "https://abusayed09.github.io/Traversal-Project-Bootstrap/"
+            w_link: "https://mdabusayedbinamin.github.io/Traversal-Project-Bootstrap/"
         },
         {
             w_no: 6,
             w_name: "Premium Template",
             w_img: project6_img,
             w_desc: "Interactive row project built with HTML, CSS & JS.",
-            w_link: "https://abusayed09.github.io/Html_Css_Js_Row_Project_02/"
+            w_link: "https://mdabusayedbinamin.github.io/Html_Css_Js_Row_Project_02/"
         },
     ];
 
